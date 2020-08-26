@@ -1,0 +1,31 @@
+h1 {
+    color: navy;
+    text-decoration: underline black;
+}
+
+.texto {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+#envioTexto {
+  margin-left: 2px;
+  margin-top: 5px;
+  width: 10%;
+  border-radius: 30%;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+#texto-usuario{
+    border: black solid 3px;
+}
+
+#texto-padrao{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: large;
+}
